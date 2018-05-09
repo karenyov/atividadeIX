@@ -7,7 +7,7 @@ Descrição da atividade: programar uma classe para representar uma matriz de
 adjacência. A classe deverá implementar as seguintes operações (métodos), porém ela
 pode ter outros métodos e atributos que você julgar necessário:
 
-• create(nroVertice:int):void criar uma matriz com nroVertice elementos e
+- create(nroVertice:int):void criar uma matriz com nroVertice elementos e
 manter ela num atributo da classe. Essa matriz deverá ser a matriz de
 adjacência;
 • addArco(origem:int, destino:int):void adiciona um arco na matriz de
